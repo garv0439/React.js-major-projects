@@ -5,4 +5,7 @@ This collection showcases a variety of applications and components built using R
 *Projects Included*
 
 <h2><li>Project 1:coffee-web</li></h2>
-
+<h2><li>Project 2:coffee-web</li></h2>
+<h2><li>Project 3:coffee-web</li></h2>
+<h2><li>Project 41:coffee-web</li></h2>
+<h2><li>Project 5:coffee-web</li></h2>
