@@ -4,7 +4,5 @@ This collection showcases a variety of applications and components built using R
 
 *Projects Included*
 
-<ul>Project 1: Simple Todo App</ul>
+<h2><ul>Project 1:coffee-web</ul></h2>
 
-A basic to-do list application to manage daily tasks.
-Features: Add, delete, and mark tasks as completed.
