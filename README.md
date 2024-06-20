@@ -9,3 +9,4 @@ This collection showcases a variety of applications and components built using R
 <h2><li>Project 3:Gym-web</li></h2>
 <h2><li>Project 4:Restaurant-web</li></h2>
 <h2><li>Project 5:Travel-web</li></h2>
+<h2><li>Project 6:Garicart-web</li></h2>
